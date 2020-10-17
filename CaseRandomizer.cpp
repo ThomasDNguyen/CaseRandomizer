@@ -41,7 +41,7 @@ int main(void)
 
   //code
   cout << "Input string:";
-  cin >> str[N];
+  cin >> str[N] >> endl;
   cout << "Sponge-text:"
   return 0;
 }//end main
